@@ -1,0 +1,112 @@
+{
+  "global": [
+    {
+      "from": "EUR",
+      "to": "USD"
+    },
+    {
+      "from": "GBP",
+      "to": "USD"
+    },
+    {
+      "from": "USD",
+      "to": "JPY"
+    },
+    {
+      "from": "AUD",
+      "to": "USD"
+    },
+    {
+      "from": "USD",
+      "to": "CAD"
+    },
+    {
+      "from": "USD",
+      "to": "CHF"
+    }
+  ],
+  "regions": {
+    "SouthAsia": [
+      {
+        "from": "USD",
+        "to": "INR"
+      },
+      {
+        "from": "USD",
+        "to": "PKR"
+      },
+      {
+        "from": "USD",
+        "to": "BDT"
+      },
+      {
+        "from": "PKR",
+        "to": "INR"
+      }
+    ],
+    "SoutheastAsia": [
+      {
+        "from": "USD",
+        "to": "PHP"
+      },
+      {
+        "from": "USD",
+        "to": "VND"
+      },
+      {
+        "from": "USD",
+        "to": "MYR"
+      },
+      {
+        "from": "USD",
+        "to": "IDR"
+      }
+    ],
+    "LatinAmerica": [
+      {
+        "from": "USD",
+        "to": "MXN"
+      },
+      {
+        "from": "USD",
+        "to": "COP"
+      },
+      {
+        "from": "USD",
+        "to": "BRL"
+      }
+    ],
+    "Europe": [
+      {
+        "from": "EUR",
+        "to": "PLN"
+      },
+      {
+        "from": "EUR",
+        "to": "RON"
+      },
+      {
+        "from": "EUR",
+        "to": "HUF"
+      },
+      {
+        "from": "GBP",
+        "to": "EUR"
+      }
+    ],
+    "MiddleEastAfrica": [
+      {
+        "from": "USD",
+        "to": "EGP"
+      },
+      {
+        "from": "USD",
+        "to": "GHS"
+      },
+      {
+        "from": "USD",
+        "to": "NGN"
+      }
+    ]
+  }
+}

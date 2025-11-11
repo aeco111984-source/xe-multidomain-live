@@ -1,0 +1,29 @@
+{
+  "note": "Indicative. Replace with updated provider rows later.",
+  "rows": [
+    {
+      "name": "Wise",
+      "fee": "0.45%",
+      "delivery": "Same day",
+      "example_rate": "Mid + 0.45%"
+    },
+    {
+      "name": "Western Union",
+      "fee": "Varies",
+      "delivery": "Minutes\u2013hours",
+      "example_rate": "Varies"
+    },
+    {
+      "name": "Remitly",
+      "fee": "$0\u2013$3.99",
+      "delivery": "Minutes\u20131 day",
+      "example_rate": "Economy / Express"
+    },
+    {
+      "name": "Xoom",
+      "fee": "Varies",
+      "delivery": "Minutes\u20131 day",
+      "example_rate": "Varies"
+    }
+  ]
+}

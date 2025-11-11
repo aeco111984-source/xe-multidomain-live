@@ -1,0 +1,372 @@
+{
+  "sites": {
+    "buyfx.ai": {
+      "title": "BUYFX",
+      "primaryColor": "#FF7A00",
+      "defaultPair": [
+        "EUR",
+        "USD"
+      ],
+      "region": "Europe",
+      "description": "buyfx.ai \u2013 Fast converter and daily baseline rates.",
+      "features": {
+        "calendar": true,
+        "infographics": true,
+        "widgets": true,
+        "news": true
+      }
+    },
+    "convertcurrency.ai": {
+      "title": "CONVERTCURRENCY",
+      "primaryColor": "#3B82F6",
+      "defaultPair": [
+        "EUR",
+        "USD"
+      ],
+      "region": "Europe",
+      "description": "convertcurrency.ai \u2013 Fast converter and daily baseline rates.",
+      "features": {
+        "calendar": true,
+        "infographics": false,
+        "widgets": true,
+        "news": false
+      }
+    },
+    "convertfx.ai": {
+      "title": "CONVERTFX",
+      "primaryColor": "#10B981",
+      "defaultPair": [
+        "EUR",
+        "USD"
+      ],
+      "region": "Europe",
+      "description": "convertfx.ai \u2013 Fast converter and daily baseline rates.",
+      "features": {
+        "calendar": true,
+        "infographics": false,
+        "widgets": true,
+        "news": true
+      }
+    },
+    "currencyconversion.ai": {
+      "title": "CURRENCYCONVERSION",
+      "primaryColor": "#8B5CF6",
+      "defaultPair": [
+        "EUR",
+        "USD"
+      ],
+      "region": "Europe",
+      "description": "currencyconversion.ai \u2013 Fast converter and daily baseline rates.",
+      "features": {
+        "calendar": true,
+        "infographics": true,
+        "widgets": true,
+        "news": false
+      }
+    },
+    "currencyiq.ai": {
+      "title": "CURRENCYIQ",
+      "primaryColor": "#EF4444",
+      "defaultPair": [
+        "EUR",
+        "USD"
+      ],
+      "region": "Europe",
+      "description": "currencyiq.ai \u2013 Fast converter and daily baseline rates.",
+      "features": {
+        "calendar": true,
+        "infographics": false,
+        "widgets": true,
+        "news": false
+      }
+    },
+    "eurusdiq.ai": {
+      "title": "EURUSDIQ",
+      "primaryColor": "#0EA5E9",
+      "defaultPair": [
+        "EUR",
+        "USD"
+      ],
+      "region": "Europe",
+      "description": "eurusdiq.ai \u2013 Fast converter and daily baseline rates.",
+      "features": {
+        "calendar": true,
+        "infographics": false,
+        "widgets": true,
+        "news": true
+      }
+    },
+    "exchangefx.ai": {
+      "title": "EXCHANGEFX",
+      "primaryColor": "#22C55E",
+      "defaultPair": [
+        "EUR",
+        "USD"
+      ],
+      "region": "Europe",
+      "description": "exchangefx.ai \u2013 Fast converter and daily baseline rates.",
+      "features": {
+        "calendar": true,
+        "infographics": true,
+        "widgets": true,
+        "news": true
+      }
+    },
+    "exchangeiq.ai": {
+      "title": "EXCHANGEIQ",
+      "primaryColor": "#F97316",
+      "defaultPair": [
+        "EUR",
+        "USD"
+      ],
+      "region": "Europe",
+      "description": "exchangeiq.ai \u2013 Fast converter and daily baseline rates.",
+      "features": {
+        "calendar": true,
+        "infographics": false,
+        "widgets": true,
+        "news": false
+      }
+    },
+    "forexbuy.ai": {
+      "title": "FOREXBUY",
+      "primaryColor": "#FF7A00",
+      "defaultPair": [
+        "EUR",
+        "USD"
+      ],
+      "region": "Europe",
+      "description": "forexbuy.ai \u2013 Fast converter and daily baseline rates.",
+      "features": {
+        "calendar": true,
+        "infographics": false,
+        "widgets": true,
+        "news": false
+      }
+    },
+    "forexexchange.ai": {
+      "title": "FOREXEXCHANGE",
+      "primaryColor": "#3B82F6",
+      "defaultPair": [
+        "EUR",
+        "USD"
+      ],
+      "region": "Europe",
+      "description": "forexexchange.ai \u2013 Fast converter and daily baseline rates.",
+      "features": {
+        "calendar": true,
+        "infographics": true,
+        "widgets": true,
+        "news": false
+      }
+    },
+    "forexrate.ai": {
+      "title": "FOREXRATE",
+      "primaryColor": "#10B981",
+      "defaultPair": [
+        "EUR",
+        "USD"
+      ],
+      "region": "Europe",
+      "description": "forexrate.ai \u2013 Fast converter and daily baseline rates.",
+      "features": {
+        "calendar": true,
+        "infographics": false,
+        "widgets": true,
+        "news": false
+      }
+    },
+    "fxbuy.ai": {
+      "title": "FXBUY",
+      "primaryColor": "#8B5CF6",
+      "defaultPair": [
+        "EUR",
+        "USD"
+      ],
+      "region": "Europe",
+      "description": "fxbuy.ai \u2013 Fast converter and daily baseline rates.",
+      "features": {
+        "calendar": true,
+        "infographics": false,
+        "widgets": true,
+        "news": true
+      }
+    },
+    "fxchange.ai": {
+      "title": "FXCHANGE",
+      "primaryColor": "#EF4444",
+      "defaultPair": [
+        "EUR",
+        "USD"
+      ],
+      "region": "Europe",
+      "description": "fxchange.ai \u2013 Fast converter and daily baseline rates.",
+      "features": {
+        "calendar": true,
+        "infographics": true,
+        "widgets": true,
+        "news": true
+      }
+    },
+    "fxexchange.ai": {
+      "title": "FXEXCHANGE",
+      "primaryColor": "#0EA5E9",
+      "defaultPair": [
+        "EUR",
+        "USD"
+      ],
+      "region": "Europe",
+      "description": "fxexchange.ai \u2013 Fast converter and daily baseline rates.",
+      "features": {
+        "calendar": true,
+        "infographics": false,
+        "widgets": true,
+        "news": true
+      }
+    },
+    "fxrate.ai": {
+      "title": "FXRATE",
+      "primaryColor": "#22C55E",
+      "defaultPair": [
+        "EUR",
+        "USD"
+      ],
+      "region": "Europe",
+      "description": "fxrate.ai \u2013 Fast converter and daily baseline rates.",
+      "features": {
+        "calendar": true,
+        "infographics": false,
+        "widgets": true,
+        "news": true
+      }
+    },
+    "fxta.ai": {
+      "title": "FXTA",
+      "primaryColor": "#F97316",
+      "defaultPair": [
+        "EUR",
+        "USD"
+      ],
+      "region": "Europe",
+      "description": "fxta.ai \u2013 Fast converter and daily baseline rates.",
+      "features": {
+        "calendar": true,
+        "infographics": true,
+        "widgets": true,
+        "news": true
+      }
+    },
+    "fxtravel.ai": {
+      "title": "FXTRAVEL",
+      "primaryColor": "#FF7A00",
+      "defaultPair": [
+        "EUR",
+        "USD"
+      ],
+      "region": "Europe",
+      "description": "fxtravel.ai \u2013 Fast converter and daily baseline rates.",
+      "features": {
+        "calendar": true,
+        "infographics": false,
+        "widgets": true,
+        "news": true
+      }
+    },
+    "usdcad.ai": {
+      "title": "USDCAD",
+      "primaryColor": "#3B82F6",
+      "defaultPair": [
+        "USD",
+        "CAD"
+      ],
+      "region": "Europe",
+      "description": "usdcad.ai \u2013 Fast converter and daily baseline rates.",
+      "features": {
+        "calendar": true,
+        "infographics": false,
+        "widgets": true,
+        "news": true
+      }
+    },
+    "usdchf.ai": {
+      "title": "USDCHF",
+      "primaryColor": "#10B981",
+      "defaultPair": [
+        "USD",
+        "CHF"
+      ],
+      "region": "Europe",
+      "description": "usdchf.ai \u2013 Fast converter and daily baseline rates.",
+      "features": {
+        "calendar": true,
+        "infographics": true,
+        "widgets": true,
+        "news": true
+      }
+    },
+    "usdcny.ai": {
+      "title": "USDCNY",
+      "primaryColor": "#8B5CF6",
+      "defaultPair": [
+        "USD",
+        "CNY"
+      ],
+      "region": "Europe",
+      "description": "usdcny.ai \u2013 Fast converter and daily baseline rates.",
+      "features": {
+        "calendar": true,
+        "infographics": false,
+        "widgets": true,
+        "news": true
+      }
+    },
+    "usdiq.ai": {
+      "title": "USDIQ",
+      "primaryColor": "#EF4444",
+      "defaultPair": [
+        "EUR",
+        "USD"
+      ],
+      "region": "Europe",
+      "description": "usdiq.ai \u2013 Fast converter and daily baseline rates.",
+      "features": {
+        "calendar": true,
+        "infographics": false,
+        "widgets": true,
+        "news": true
+      }
+    },
+    "usdjpy.ai": {
+      "title": "USDJPY",
+      "primaryColor": "#0EA5E9",
+      "defaultPair": [
+        "USD",
+        "JPY"
+      ],
+      "region": "Europe",
+      "description": "usdjpy.ai \u2013 Fast converter and daily baseline rates.",
+      "features": {
+        "calendar": true,
+        "infographics": true,
+        "widgets": true,
+        "news": true
+      }
+    },
+    "xchangerate.ai": {
+      "title": "XCHANGERATE",
+      "primaryColor": "#22C55E",
+      "defaultPair": [
+        "EUR",
+        "USD"
+      ],
+      "region": "Europe",
+      "description": "xchangerate.ai \u2013 Fast converter and daily baseline rates.",
+      "features": {
+        "calendar": true,
+        "infographics": false,
+        "widgets": true,
+        "news": false
+      }
+    }
+  }
+}
